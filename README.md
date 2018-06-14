@@ -1,0 +1,2 @@
+# django-connectDB
+connect MySQL
